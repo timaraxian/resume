@@ -3,16 +3,37 @@
 
 ### Work Experience
 
-#### Full Stack Engineer - [GoldRepublic](https://www.goldrepublic.nl), May 2018 - Present
+#### Fullstack Data Engineer - [Suburbia](https://suburbia.io/), November 2018 - Present
+
+`Python, Golang, ES6+, pandas, SciPy, NumPy, Matplotlib, VueJS, Postgres, CockroachDB, MongoDB`
+
+:round_pushpin: Amsterdam, Netherlands
+   
+   - Performed onboarding and ETL process for new datasets. This involved data cleaning and aggregation to ensure quality and compliance; 
+   feature extraction using techniques such as text sentiment analysis and natural language processing; 
+   statistical analysis and predictive modelling; and creating data visualizations. 
+   The tooling used in this process is primarily the python scientific stack 
+   i.e. pandas, matplotlib, scikit-learn, statsmodels.
+      
+   - Built a visualization dashboard web application. This involved creating a fully end-to-end tested API to 
+   support database retrieval of the datasets; managing the state of the application using state machines; and adhering to pixel 
+   perfect responsive web design. The tooling used in this process involved, but is not limited to, 
+   VueJS, HighCharts, Jest, MongoDB
+   
+   <br>
+   
+#### Fullstack Engineer - [NxChange](https://www.nxchange.com/) / [GoldRepublic](https://www.goldrepublic.com), May 2018 - October 2018
 
 `Golang, ES6+, PHP, Laravel, Postgres, VueJS, Angular, Typescript, PHPUnit, dot`
 
 :round_pushpin: Amsterdam, Netherlands
-
-   - Worked on building a functionally reactive Content Management System (CMS) and Client Relationship Management (CRM)
    
-   - Involved algorithmic trading projects
- 
+   - Integrated with major bank APIs and cash accounts, migrating live balances to blockchain ledger
+   
+   - Built fully customised enterprise CMS/CRM using material design, functionally reactive JS, and AngularJS
+   
+   - Full end-to-end tested API design and development
+
   <br>
 
 
