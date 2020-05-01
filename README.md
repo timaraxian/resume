@@ -3,7 +3,7 @@
 
 ### Work Experience
 
-#### Fullstack Data Engineer - [Suburbia](https://suburbia.io/), November 2018 - Present
+#### Fullstack Data Engineer - [Suburbia](https://suburbia.io/), November 2018 - October 2019
 
 `Python, Golang, ES6+, pandas, SciPy, NumPy, Matplotlib, VueJS, Postgres, CockroachDB, MongoDB`
 
