@@ -3,6 +3,20 @@
 
 ### Work Experience
 
+#### Programming Tutor - [Tokyo Coding Club](https://tokyocodingclub.com/), June 2020 - September 2020
+
+`Python, HTML, ES6+, CSS, Lua`
+
+:round_pushpin: Tokyo, Japan
+   
+   - Taught students, aged 5-14, programming basics 1-on-1 in python and Lua using games such as Minecraft and Roblox respectively, 
+   adapting my teaching style based on how a student learning style and what their interests were. Conducted a mix of in-person and online
+   classes
+      
+   - Developed my own curriculum to teach the basics of Web Development to an interested student.
+   
+   <br>
+
 #### Fullstack Data Engineer - [Suburbia](https://suburbia.io/), November 2018 - October 2019
 
 `Python, Golang, ES6+, pandas, SciPy, NumPy, Matplotlib, VueJS, Postgres, CockroachDB, MongoDB`
